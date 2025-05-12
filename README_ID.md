@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Rumbling Banner" width="600"/>
+  <img src="Banner.png" alt="Rumbling Banner" width="600"/>
 </p>
 
 # The Rumbling
