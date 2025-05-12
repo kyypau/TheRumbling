@@ -2,7 +2,7 @@
 
 # coding=utf-8
 
-# obfuscated with plusobf: https://github.com/1921681002
+# silahkan kalau mau di recode
 
 
 
