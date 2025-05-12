@@ -76,7 +76,7 @@ python rumbling.py
 
 ---
 
-## Troubleshooting
+## 🧩 Troubleshooting
 
 * **Gagal Instal Modul:**
 
@@ -99,7 +99,7 @@ python rumbling.py
 
 ---
 
-## Kontribusi
+## 🤝 Kontribusi
 
 Ingin memperkuat kekuatan The Rumbling? Fork repositori, kirim pull request, atau buat issue baru. Mari kita bangun bersama alat Titan terbaik—secara etis dan keren!
 
