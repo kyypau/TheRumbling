@@ -9,7 +9,7 @@ Sebuah tool analisis dan stress testing jaringan berbasis Python yang terinspira
 
 ---
 
-## ⚠️ Hanya untuk Penggunaan Etis ⚠️
+## ⚠️ Hanya untuk Penggunaan Etis
 
 The Rumbling hanya diperuntukkan bagi pengujian penetrasi yang **diizinkan secara hukum** dan untuk tujuan edukatif. Penggunaan tanpa izin adalah ilegal dan bertentangan dengan prinsip Eldia. **Selalu dapatkan izin tertulis sebelum melakukan pengujian.**
 
