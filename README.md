@@ -11,7 +11,7 @@ A Python-based network analysis and stress testing tool inspired by *Attack on T
 
 ---
 
-## ⚠️ For Ethical Use Only ⚠️
+## ⚠️ For Ethical Use Only
 
 The Rumbling is strictly intended for **legally authorized** penetration testing and educational purposes. Unauthorized use is illegal and goes against the principles of Eldia. **Always obtain explicit permission before testing any system.**
 
